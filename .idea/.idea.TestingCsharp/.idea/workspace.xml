@@ -7,218 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d8f8fbc-b6ec-4e4b-97e4-35f44f367a77" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GraphApp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GraphApp/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GraphApp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GraphApp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.GraphApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestingCsharp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TestingCsharp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/TestingCsharp/v17/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/TestingCsharp/v17/DocumentLayout.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backup/TestingCsharp.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/App.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/App.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/Graph.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/GraphApp.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/MainWindow.xaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/MainWindow.xaml.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/bin/Debug/net8.0-windows/GraphApp.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/bin/Debug/net8.0-windows/GraphApp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/bin/Debug/net8.0-windows/GraphApp.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/bin/Debug/net8.0-windows/GraphApp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/bin/Debug/net8.0-windows/GraphApp.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/bin/Debug/net8.0-windows/TestingCsharp.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/bin/Debug/net8.0-windows/TestingCsharp.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/bin/Debug/net8.0-windows/TestingCsharp.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/App.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp.g.resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp_MarkupCompile.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp_MarkupCompile.lref" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp_ifiehmpz_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp_ifiehmpz_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp_ifiehmpz_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp_ifiehmpz_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/GraphApp_ifiehmpz_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/MainWindow.baml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/MainWindow.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp.g.resources" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_02l2ig3s_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_02l2ig3s_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_02l2ig3s_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_02l2ig3s_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_02l2ig3s_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_0n5f2nmq_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_0n5f2nmq_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_0n5f2nmq_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_0n5f2nmq_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_0n5f2nmq_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_0ttinycv_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_0ttinycv_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_0ttinycv_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_0ttinycv_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_0ttinycv_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_2cievi4h_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_2cievi4h_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_2cievi4h_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_2cievi4h_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_2cievi4h_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_MarkupCompile.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_MarkupCompile.lref" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_abq051nu_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_abq051nu_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_abq051nu_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_abq051nu_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_abq051nu_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_azze4ipk_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_azze4ipk_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_azze4ipk_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_azze4ipk_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_azze4ipk_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_bv0wnzmv_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_bv0wnzmv_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_bv0wnzmv_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_bv0wnzmv_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_bv0wnzmv_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_dcubqwuf_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_dcubqwuf_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_dcubqwuf_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_dcubqwuf_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_dcubqwuf_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_e25gv1e1_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_e25gv1e1_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_e25gv1e1_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_e25gv1e1_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_e25gv1e1_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_g5hkzl5n_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_g5hkzl5n_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_g5hkzl5n_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_g5hkzl5n_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_g5hkzl5n_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_grjbkzuk_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_grjbkzuk_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_grjbkzuk_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_grjbkzuk_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_grjbkzuk_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_jzc4jffg_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_jzc4jffg_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_jzc4jffg_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_jzc4jffg_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_jzc4jffg_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_k242g1e1_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_k242g1e1_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_k242g1e1_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_k242g1e1_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_k242g1e1_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_kqlefydf_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_kqlefydf_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_kqlefydf_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_kqlefydf_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_kqlefydf_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_lhuorboj_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_lhuorboj_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_lhuorboj_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_lhuorboj_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_lhuorboj_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_m0gyecoq_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_m0gyecoq_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_m0gyecoq_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_m0gyecoq_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_m0gyecoq_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_pqoco5do_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_pqoco5do_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_pqoco5do_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_pqoco5do_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_pqoco5do_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_qlzldp0t_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_qlzldp0t_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_qlzldp0t_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_qlzldp0t_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_qlzldp0t_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_sa1vzzp5_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_sa1vzzp5_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_sa1vzzp5_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_sa1vzzp5_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_sa1vzzp5_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_tcm3fffh_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_tcm3fffh_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_tcm3fffh_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_tcm3fffh_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_tcm3fffh_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_ttsf43xx_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_ttsf43xx_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_ttsf43xx_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_ttsf43xx_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_ttsf43xx_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_v3j3nipb_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_v3j3nipb_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_v3j3nipb_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_v3j3nipb_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_v3j3nipb_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_vyvsm4kv_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_vyvsm4kv_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_vyvsm4kv_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_vyvsm4kv_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_vyvsm4kv_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_zenfoqv1_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_zenfoqv1_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_zenfoqv1_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_zenfoqv1_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_zenfoqv1_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_zkgr1ujx_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_zkgr1ujx_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_zkgr1ujx_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_zkgr1ujx_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_zkgr1ujx_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_znu5dota_wpftmp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_znu5dota_wpftmp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_znu5dota_wpftmp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_znu5dota_wpftmp.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/TestingCsharp_znu5dota_wpftmp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/apphost.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/ref/GraphApp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/ref/TestingCsharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/refint/GraphApp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/Debug/net8.0-windows/refint/TestingCsharp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/GraphApp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/GraphApp.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/GraphApp.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/TestingCsharp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/TestingCsharp.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/TestingCsharp.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GraphApp/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestingCsharp.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UpgradeLog.htm" afterDir="false" />
-    </list>
+    <list default="true" id="2d8f8fbc-b6ec-4e4b-97e4-35f44f367a77" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -249,7 +38,7 @@
   &quot;keyToString&quot;: {
     &quot;.NET Project.TestingCsharp.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -295,7 +84,7 @@
       <workItem from="1724971243240" duration="124000" />
       <workItem from="1724971413294" duration="227000" />
       <workItem from="1724971649697" duration="645000" />
-      <workItem from="1724973130946" duration="329000" />
+      <workItem from="1724973130946" duration="634000" />
     </task>
     <servers />
   </component>
@@ -303,6 +92,29 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
