@@ -1,0 +1,20 @@
+﻿<Window x:Class="GraphApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GraphApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Canvas Name="DrawingCanvas" Background="White"></Canvas>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Right" VerticalAlignment="Top">
+            <TextBox Name="NodeInput" Width="100" Margin="5" Text="Node Input"></TextBox>
+            <Button Name="AddNodeButton" Content="Add Node" Click="AddNode" Margin="5"></Button>
+            <TextBox Name="EdgeInput" Width="100" Margin="5" Text="Edge (A-B)"></TextBox>
+            <Button Name="AddEdgeButton" Content="Add Edge" Click="AddEdge" Margin="5"></Button>
+            <Button Content="Draw Graph" Click="DrawGraph" Margin="5"></Button>
+        </StackPanel>
+    </Grid>
+</Window>
