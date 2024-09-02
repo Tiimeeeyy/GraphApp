@@ -14,7 +14,7 @@
             <Button Name="AddNodeButton" Content="Add Node" Click="AddNode" Margin="5"></Button>
             <TextBox Name="EdgeInput" Width="100" Margin="5" Text="Edge (A-B)"></TextBox>
             <Button Name="AddEdgeButton" Content="Add Edge" Click="AddEdge" Margin="5"></Button>
-            <Button Content="Draw Graph" Click="DrawGraph" Margin="5"></Button>
+           <CheckBox Name="DirectionCheckedBox" Content="Directed" Margin="5" Checked="DirectionCheckedBox_OnChecked" Unchecked="DirectionCheckedBox_OnChecked"></CheckBox> 
         </StackPanel>
     </Grid>
 </Window>

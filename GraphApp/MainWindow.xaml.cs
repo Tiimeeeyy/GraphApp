@@ -25,8 +25,7 @@ public partial class MainWindow : Window
         _graph = new Graph();
         _nodePositions = new Dictionary<string, Point>();
     }
-
-
+    
     private void Window_Loaded(object sender, RoutedEventArgs e)
     {
         DrawGraph(sender, e);
@@ -50,7 +49,16 @@ public partial class MainWindow : Window
             Canvas.SetLeft(ellipse, position.X - 15);
             Canvas.SetTop(ellipse, position.Y - 15);
 
+            var label = new TextBlock
+            {
+                Text = node,
+                Foreground = Brushes.Black,
+                Background = Brushes.White
+            };
+            Canvas.SetLeft(label, position.X - 15);
+            Canvas.SetTop(label, position.Y - 30);
             DrawingCanvas.Children.Add(ellipse);
+            DrawingCanvas.Children.Add(label);
         }
 
         foreach (var edge in _graph.Edges)
@@ -60,18 +68,23 @@ public partial class MainWindow : Window
 
             var direction = new Vector(end.X - start.X, end.Y - start.Y);
             direction.Normalize();
-            direction *= 15;
-            
+            var startOffset = direction * 15;
+            var endOffset = direction * -15;
+
             var line = new Line
             {
                 Stroke = Brushes.Black,
                 StrokeThickness = 2,
-                X1 = start.X + direction.X,
-                Y1 = start.Y + direction.Y,
-                X2 = end.X + direction.X + 30,
-                Y2 = end.Y + direction.Y
+                X1 = start.X + startOffset.X,
+                Y1 = start.Y + startOffset.Y,
+                X2 = end.X + endOffset.X,
+                Y2 = end.Y + endOffset.Y
             };
             DrawingCanvas.Children.Add(line);
+            if (DirectionCheckedBox.IsChecked == true)
+            {
+                DrawArrowhead(line);
+            }
         }
     }
 
@@ -131,8 +144,28 @@ public partial class MainWindow : Window
         }
     }
 
+    private void DrawArrowhead(Line line)
+    {
+        var arrowHead = new Polygon
+        {
+            Fill = Brushes.Black,
+            Points = new PointCollection
+            {
+                new Point(line.X2, line.Y2),
+                new Point(line.X2 + 5, line.Y2 - 8),
+                new Point(line.X2 + 5, line.Y2 + 8)
+            }
+        };
+        DrawingCanvas.Children.Add(arrowHead);
+    }
+
     private static void ShowErrorPopup(string message)
     {
         MessageBox.Show(message, "Error!", MessageBoxButton.OK, MessageBoxImage.Error);
+    }
+
+    private void DirectionCheckedBox_OnChecked(object sender, RoutedEventArgs e)
+    {
+        DrawGraph(sender, e);
     }
 }
